@@ -1,0 +1,18 @@
+MEHDI BOUZID
+Data Scientist
+Madrid, Espagne
+Email: mehdi.bouzid@gmail.com
+linkedin.com/in/mehdi-bouzid
+
+SKILLS
+Python, Sql, machine learning, Pandas, Scikit-Learn
+
+WORK EXPERIENCE
+Data Scientist at Vermeg (2022 - 2020)
+Delivered features and collaborated with the team.
+
+EDUCATION
+MSc Computer Science, University of Manchester (2017 - 2020)
+
+LANGUAGES
+English (native), French (intermediate)

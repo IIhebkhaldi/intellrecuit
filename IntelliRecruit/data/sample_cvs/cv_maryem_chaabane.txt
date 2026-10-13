@@ -1,0 +1,18 @@
+MARYEM CHAABANE
+Java Developer
+Madrid, Espagne
+Email: maryem.chaabane@gmail.com
+linkedin.com/in/maryem-chaabane
+
+SKILLS
+Java, Spring, Mysql, Docker, Git, Uml
+
+WORK EXPERIENCE
+Java Developer at Proxym (2022 - 2023)
+Delivered features and collaborated with the team.
+
+EDUCATION
+MSc Computer Science, University of Manchester (2020 - 2023)
+
+LANGUAGES
+English (native), French (intermediate)

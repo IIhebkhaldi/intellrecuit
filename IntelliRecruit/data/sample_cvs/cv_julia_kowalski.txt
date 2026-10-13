@@ -1,0 +1,18 @@
+JULIA KOWALSKI
+Frontend Developer
+Madrid, Espagne
+Email: julia.kowalski@gmail.com
+linkedin.com/in/julia-kowalski
+
+SKILLS
+Javascript, React, Typescript, Angular, Node.Js
+
+WORK EXPERIENCE
+Frontend Developer at Focus Corporation (2022 - 2022)
+Delivered features and collaborated with the team.
+
+EDUCATION
+MSc Computer Science, University of Manchester (2019 - 2022)
+
+LANGUAGES
+English (native), French (intermediate)

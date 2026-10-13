@@ -1,0 +1,18 @@
+CHLOE BERNARD
+Data Scientist
+Sousse, Tunisie
+Email: chloe.bernard@yahoo.fr
+linkedin.com/in/chloe-bernard
+
+SKILLS
+Python, Sql, machine learning, Pandas, Scikit-Learn
+
+WORK EXPERIENCE
+Data Scientist at Talan (2022 - 2020)
+Delivered features and collaborated with the team.
+
+EDUCATION
+MSc Computer Science, Technical University of Berlin (2017 - 2020)
+
+LANGUAGES
+English (native), French (intermediate)

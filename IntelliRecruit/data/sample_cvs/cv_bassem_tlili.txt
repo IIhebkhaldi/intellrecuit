@@ -1,0 +1,18 @@
+BASSEM TLILI
+Java Developer
+Sousse, Tunisie
+Email: bassem.tlili@yahoo.fr
+linkedin.com/in/bassem-tlili
+
+SKILLS
+Java, Spring, Mysql, Docker, Git, Uml
+
+WORK EXPERIENCE
+Java Developer at Proxym (2022 - 2023)
+Delivered features and collaborated with the team.
+
+EDUCATION
+MSc Computer Science, Technical University of Berlin (2020 - 2023)
+
+LANGUAGES
+English (native), French (intermediate)

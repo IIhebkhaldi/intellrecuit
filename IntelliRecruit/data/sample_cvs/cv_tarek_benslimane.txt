@@ -1,0 +1,18 @@
+TAREK BENSLIMANE
+Machine Learning Engineer
+Madrid, Espagne
+Email: tarek.benslimane@gmail.com
+linkedin.com/in/tarek-benslimane
+
+SKILLS
+Python, Tensorflow, Keras, Nlp, Kubernetes, Mlops
+
+WORK EXPERIENCE
+Machine Learning Engineer at Clevy (2022 - 2024)
+Delivered features and collaborated with the team.
+
+EDUCATION
+MSc Computer Science, University of Manchester (2021 - 2024)
+
+LANGUAGES
+English (native), French (intermediate)

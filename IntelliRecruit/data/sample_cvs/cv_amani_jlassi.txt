@@ -1,0 +1,18 @@
+AMANI JLASSI
+Backend Developer
+Lyon, France
+Email: amani.jlassi@outlook.com
+linkedin.com/in/amani-jlassi
+
+SKILLS
+Python, Django, Fastapi, Postgresql, Docker
+
+WORK EXPERIENCE
+Backend Developer at Instadeep (2022 - 2021)
+Delivered features and collaborated with the team.
+
+EDUCATION
+MSc Computer Science, Sorbonne Université (2018 - 2021)
+
+LANGUAGES
+English (native), French (intermediate)

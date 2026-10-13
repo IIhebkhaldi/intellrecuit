@@ -1,0 +1,18 @@
+THOMAS WEBER
+BI Analyst
+Lyon, France
+Email: thomas.weber@outlook.com
+linkedin.com/in/thomas-weber
+
+SKILLS
+power bi, sql server, Ssis, Dax, Excel, Talend
+
+WORK EXPERIENCE
+BI Analyst at Talan (2022 - 2023)
+Delivered features and collaborated with the team.
+
+EDUCATION
+MSc Computer Science, Sorbonne Université (2020 - 2023)
+
+LANGUAGES
+English (native), French (intermediate)

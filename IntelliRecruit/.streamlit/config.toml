@@ -1,0 +1,10 @@
+# Thème Streamlit forcé en CLAIR pour rester cohérent avec le design (fond
+# #F5F7FC, accent violet). Sans ça, si l'OS/navigateur est en mode sombre,
+# Streamlit met le texte en blanc -> illisible sur notre fond clair.
+[theme]
+base = "light"
+primaryColor = "#5B4CF0"
+backgroundColor = "#F5F7FC"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#1A1A2E"
+font = "sans serif"

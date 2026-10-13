@@ -1,0 +1,17 @@
+HIBA FOURATI
+Data Engineer
+Casablanca, Maroc
+Email: hiba.fourati@hotmail.com
+
+SKILLS
+Python, Spark, Airflow, Sql, Kafka, Hadoop
+
+WORK EXPERIENCE
+Data Engineer at Capgemini (2022 - 2022)
+Delivered features and collaborated with the team.
+
+EDUCATION
+MSc Computer Science, Polytechnique Montréal (2019 - 2022)
+
+LANGUAGES
+English (native), French (intermediate)

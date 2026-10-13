@@ -1,0 +1,4 @@
+# === Frontend Streamlit (Annexe E : frontend/requirements.txt) ===
+streamlit
+requests
+pandas

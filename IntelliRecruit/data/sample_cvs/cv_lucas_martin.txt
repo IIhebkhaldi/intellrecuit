@@ -1,0 +1,17 @@
+LUCAS MARTIN
+Backend Developer
+Casablanca, Maroc
+Email: lucas.martin@hotmail.com
+
+SKILLS
+Python, Django, Fastapi, Postgresql, Docker
+
+WORK EXPERIENCE
+Backend Developer at Vneuron (2022 - 2021)
+Delivered features and collaborated with the team.
+
+EDUCATION
+MSc Computer Science, Polytechnique Montréal (2018 - 2021)
+
+LANGUAGES
+English (native), French (intermediate)

@@ -1,0 +1,2312 @@
+{
+  "_description": "Vérité terrain annotée — générée depuis data/generer_cvs_test.py (le CV et son annotation viennent de la même source, donc cohérents).",
+  "cv_amira_bensalem.pdf": {
+    "language": "fr",
+    "first_name": "Amira",
+    "last_name": "Ben Salem",
+    "email": "amira.bensalem@gmail.com",
+    "phone": "+216 22 345 678",
+    "location": "Ariana, Tunisie",
+    "linkedin": "https://www.linkedin.com/in/amira-bensalem",
+    "skills": [
+      "python",
+      "sql",
+      "machine learning",
+      "power bi",
+      "pandas",
+      "tensorflow"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_john_smith.pdf": {
+    "language": "en",
+    "first_name": "John",
+    "last_name": "Smith",
+    "email": "john.smith@outlook.com",
+    "phone": "+44 20 7946 0958",
+    "location": "London, UK",
+    "linkedin": "https://www.linkedin.com/in/john-smith-dev",
+    "skills": [
+      "python",
+      "django",
+      "postgresql",
+      "docker",
+      "aws"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_lina_kacem.pdf": {
+    "language": "fr",
+    "first_name": "Lina",
+    "last_name": "Kacem",
+    "email": "lina.kacem@etudiant.esprit.tn",
+    "phone": null,
+    "location": null,
+    "linkedin": null,
+    "skills": [
+      "python",
+      "pandas",
+      "scikit-learn"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 0,
+    "nb_education": 1
+  },
+  "cv_mohamed_trabelsi.docx": {
+    "language": "fr",
+    "first_name": "Mohamed",
+    "last_name": "Trabelsi",
+    "email": "mohamed.trabelsi@yahoo.fr",
+    "phone": "+216 98 765 432",
+    "location": "Sousse, Tunisie",
+    "linkedin": null,
+    "skills": [
+      "javascript",
+      "react",
+      "node.js",
+      "mongodb",
+      "docker"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_sara_gharbi.docx": {
+    "language": "en",
+    "first_name": "Sara",
+    "last_name": "Gharbi",
+    "email": "sara.gharbi@protonmail.com",
+    "phone": "+33 6 12 34 56 78",
+    "location": "Paris, France",
+    "linkedin": "https://www.linkedin.com/in/sara-gharbi-ml",
+    "skills": [
+      "python",
+      "tensorflow",
+      "keras",
+      "nlp",
+      "mlops",
+      "kubernetes",
+      "machine learning"
+    ],
+    "languages": [
+      "french",
+      "arabic",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_youssef_benali.txt": {
+    "language": "fr",
+    "first_name": "Youssef",
+    "last_name": "Ben Ali",
+    "email": "youssef.benali@hotmail.com",
+    "phone": "55 123 456",
+    "location": "Tunis, Tunisie",
+    "linkedin": null,
+    "skills": [
+      "power bi",
+      "sql server",
+      "ssis",
+      "dax",
+      "excel",
+      "talend",
+      "etl",
+      "business intelligence"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_nour_belhadj.pdf": {
+    "language": "fr",
+    "first_name": "Nour",
+    "last_name": "Belhadj",
+    "email": "nour.belhadj@gmail.com",
+    "phone": "+216 20 100 200",
+    "location": "Tunis, Tunisie",
+    "linkedin": "https://www.linkedin.com/in/nour-belhadj",
+    "skills": [
+      "python",
+      "sql",
+      "machine learning",
+      "pandas",
+      "scikit-learn"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_aymen_gharbi.docx": {
+    "language": "fr",
+    "first_name": "Aymen",
+    "last_name": "Gharbi",
+    "email": "aymen.gharbi@outlook.com",
+    "phone": "+33 6 12 34 56 78",
+    "location": "Ariana, Tunisie",
+    "linkedin": "https://www.linkedin.com/in/aymen-gharbi",
+    "skills": [
+      "python",
+      "django",
+      "fastapi",
+      "postgresql",
+      "docker"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_rania_mansour.txt": {
+    "language": "en",
+    "first_name": "Rania",
+    "last_name": "Mansour",
+    "email": "rania.mansour@yahoo.fr",
+    "phone": null,
+    "location": "Sousse, Tunisie",
+    "linkedin": "https://www.linkedin.com/in/rania-mansour",
+    "skills": [
+      "javascript",
+      "react",
+      "typescript",
+      "angular",
+      "node.js"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_skander_bouazizi.pdf": {
+    "language": "fr",
+    "first_name": "Skander",
+    "last_name": "Bouazizi",
+    "email": "skander.bouazizi@hotmail.com",
+    "phone": "+216 23 103 203",
+    "location": "Sfax, Tunisie",
+    "linkedin": null,
+    "skills": [
+      "power bi",
+      "sql server",
+      "ssis",
+      "dax",
+      "excel",
+      "talend"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_ines_khemiri.docx": {
+    "language": "fr",
+    "first_name": "Ines",
+    "last_name": "Khemiri",
+    "email": "ines.khemiri@gmail.com",
+    "phone": "+33 6 12 34 56 78",
+    "location": "Paris, France",
+    "linkedin": "https://www.linkedin.com/in/ines-khemiri",
+    "skills": [
+      "python",
+      "tensorflow",
+      "keras",
+      "nlp",
+      "kubernetes",
+      "mlops"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_bilel_jaziri.txt": {
+    "language": "en",
+    "first_name": "Bilel",
+    "last_name": "Jaziri",
+    "email": "bilel.jaziri@outlook.com",
+    "phone": null,
+    "location": "Lyon, France",
+    "linkedin": "https://www.linkedin.com/in/bilel-jaziri",
+    "skills": [
+      "docker",
+      "kubernetes",
+      "terraform",
+      "aws",
+      "jenkins",
+      "linux"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_farah_ncibi.pdf": {
+    "language": "fr",
+    "first_name": "Farah",
+    "last_name": "Ncibi",
+    "email": "farah.ncibi@yahoo.fr",
+    "phone": "+216 26 106 206",
+    "location": "London, UK",
+    "linkedin": "https://www.linkedin.com/in/farah-ncibi",
+    "skills": [
+      "javascript",
+      "react",
+      "node.js",
+      "mongodb",
+      "docker"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_oussama_zouari.docx": {
+    "language": "fr",
+    "first_name": "Oussama",
+    "last_name": "Zouari",
+    "email": "oussama.zouari@hotmail.com",
+    "phone": "+33 6 12 34 56 78",
+    "location": "Berlin, Allemagne",
+    "linkedin": null,
+    "skills": [
+      "python",
+      "spark",
+      "airflow",
+      "sql",
+      "kafka",
+      "hadoop"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_maryem_chaabane.txt": {
+    "language": "en",
+    "first_name": "Maryem",
+    "last_name": "Chaabane",
+    "email": "maryem.chaabane@gmail.com",
+    "phone": null,
+    "location": "Madrid, Espagne",
+    "linkedin": "https://www.linkedin.com/in/maryem-chaabane",
+    "skills": [
+      "java",
+      "spring",
+      "mysql",
+      "docker",
+      "git",
+      "uml"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_wassim_trabelsi.pdf": {
+    "language": "fr",
+    "first_name": "Wassim",
+    "last_name": "Trabelsi",
+    "email": "wassim.trabelsi@outlook.com",
+    "phone": "+216 29 109 209",
+    "location": "Montréal, Canada",
+    "linkedin": "https://www.linkedin.com/in/wassim-trabelsi",
+    "skills": [
+      "kotlin",
+      "swift",
+      "java",
+      "git"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_emma_laurent.docx": {
+    "language": "fr",
+    "first_name": "Emma",
+    "last_name": "Laurent",
+    "email": "emma.laurent@yahoo.fr",
+    "phone": "+33 6 12 34 56 78",
+    "location": "Milan, Italie",
+    "linkedin": "https://www.linkedin.com/in/emma-laurent",
+    "skills": [
+      "python",
+      "sql",
+      "machine learning",
+      "pandas",
+      "scikit-learn"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_lucas_martin.txt": {
+    "language": "en",
+    "first_name": "Lucas",
+    "last_name": "Martin",
+    "email": "lucas.martin@hotmail.com",
+    "phone": null,
+    "location": "Casablanca, Maroc",
+    "linkedin": null,
+    "skills": [
+      "python",
+      "django",
+      "fastapi",
+      "postgresql",
+      "docker"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_sofia_rossi.pdf": {
+    "language": "fr",
+    "first_name": "Sofia",
+    "last_name": "Rossi",
+    "email": "sofia.rossi@gmail.com",
+    "phone": "+216 32 112 212",
+    "location": "Tunis, Tunisie",
+    "linkedin": "https://www.linkedin.com/in/sofia-rossi",
+    "skills": [
+      "javascript",
+      "react",
+      "typescript",
+      "angular",
+      "node.js"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_david_meyer.docx": {
+    "language": "fr",
+    "first_name": "David",
+    "last_name": "Meyer",
+    "email": "david.meyer@outlook.com",
+    "phone": "+33 6 12 34 56 78",
+    "location": "Ariana, Tunisie",
+    "linkedin": "https://www.linkedin.com/in/david-meyer",
+    "skills": [
+      "power bi",
+      "sql server",
+      "ssis",
+      "dax",
+      "excel",
+      "talend"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_carla_garcia.txt": {
+    "language": "en",
+    "first_name": "Carla",
+    "last_name": "Garcia",
+    "email": "carla.garcia@yahoo.fr",
+    "phone": null,
+    "location": "Sousse, Tunisie",
+    "linkedin": "https://www.linkedin.com/in/carla-garcia",
+    "skills": [
+      "python",
+      "tensorflow",
+      "keras",
+      "nlp",
+      "kubernetes",
+      "mlops"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_hedi_slama.pdf": {
+    "language": "fr",
+    "first_name": "Hedi",
+    "last_name": "Slama",
+    "email": "hedi.slama@hotmail.com",
+    "phone": "+216 35 115 215",
+    "location": "Sfax, Tunisie",
+    "linkedin": null,
+    "skills": [
+      "docker",
+      "kubernetes",
+      "terraform",
+      "aws",
+      "jenkins",
+      "linux"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_nadia_ben_youssef.docx": {
+    "language": "fr",
+    "first_name": "Nadia",
+    "last_name": "Ben Youssef",
+    "email": "nadia.benyoussef@gmail.com",
+    "phone": "+33 6 12 34 56 78",
+    "location": "Paris, France",
+    "linkedin": "https://www.linkedin.com/in/nadia-ben-youssef",
+    "skills": [
+      "javascript",
+      "react",
+      "node.js",
+      "mongodb",
+      "docker"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_karim_haddad.txt": {
+    "language": "en",
+    "first_name": "Karim",
+    "last_name": "Haddad",
+    "email": "karim.haddad@outlook.com",
+    "phone": null,
+    "location": "Lyon, France",
+    "linkedin": "https://www.linkedin.com/in/karim-haddad",
+    "skills": [
+      "python",
+      "spark",
+      "airflow",
+      "sql",
+      "kafka",
+      "hadoop"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_sami_ferjani.pdf": {
+    "language": "fr",
+    "first_name": "Sami",
+    "last_name": "Ferjani",
+    "email": "sami.ferjani@yahoo.fr",
+    "phone": "+216 38 118 218",
+    "location": "London, UK",
+    "linkedin": "https://www.linkedin.com/in/sami-ferjani",
+    "skills": [
+      "java",
+      "spring",
+      "mysql",
+      "docker",
+      "git",
+      "uml"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_yasmine_ayari.docx": {
+    "language": "fr",
+    "first_name": "Yasmine",
+    "last_name": "Ayari",
+    "email": "yasmine.ayari@hotmail.com",
+    "phone": "+33 6 12 34 56 78",
+    "location": "Berlin, Allemagne",
+    "linkedin": null,
+    "skills": [
+      "kotlin",
+      "swift",
+      "java",
+      "git"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_mehdi_bouzid.txt": {
+    "language": "en",
+    "first_name": "Mehdi",
+    "last_name": "Bouzid",
+    "email": "mehdi.bouzid@gmail.com",
+    "phone": null,
+    "location": "Madrid, Espagne",
+    "linkedin": "https://www.linkedin.com/in/mehdi-bouzid",
+    "skills": [
+      "python",
+      "sql",
+      "machine learning",
+      "pandas",
+      "scikit-learn"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_leila_marzouki.pdf": {
+    "language": "fr",
+    "first_name": "Leila",
+    "last_name": "Marzouki",
+    "email": "leila.marzouki@outlook.com",
+    "phone": "+216 41 121 221",
+    "location": "Montréal, Canada",
+    "linkedin": "https://www.linkedin.com/in/leila-marzouki",
+    "skills": [
+      "python",
+      "django",
+      "fastapi",
+      "postgresql",
+      "docker"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_anis_guesmi.docx": {
+    "language": "fr",
+    "first_name": "Anis",
+    "last_name": "Guesmi",
+    "email": "anis.guesmi@yahoo.fr",
+    "phone": "+33 6 12 34 56 78",
+    "location": "Milan, Italie",
+    "linkedin": "https://www.linkedin.com/in/anis-guesmi",
+    "skills": [
+      "javascript",
+      "react",
+      "typescript",
+      "angular",
+      "node.js"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_dorra_hamdi.txt": {
+    "language": "en",
+    "first_name": "Dorra",
+    "last_name": "Hamdi",
+    "email": "dorra.hamdi@hotmail.com",
+    "phone": null,
+    "location": "Casablanca, Maroc",
+    "linkedin": null,
+    "skills": [
+      "power bi",
+      "sql server",
+      "ssis",
+      "dax",
+      "excel",
+      "talend"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_ahmed_khelifi.pdf": {
+    "language": "fr",
+    "first_name": "Ahmed",
+    "last_name": "Khelifi",
+    "email": "ahmed.khelifi@gmail.com",
+    "phone": "+216 44 124 224",
+    "location": "Tunis, Tunisie",
+    "linkedin": "https://www.linkedin.com/in/ahmed-khelifi",
+    "skills": [
+      "python",
+      "tensorflow",
+      "keras",
+      "nlp",
+      "kubernetes",
+      "mlops"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_salma_riahi.docx": {
+    "language": "fr",
+    "first_name": "Salma",
+    "last_name": "Riahi",
+    "email": "salma.riahi@outlook.com",
+    "phone": "+33 6 12 34 56 78",
+    "location": "Ariana, Tunisie",
+    "linkedin": "https://www.linkedin.com/in/salma-riahi",
+    "skills": [
+      "docker",
+      "kubernetes",
+      "terraform",
+      "aws",
+      "jenkins",
+      "linux"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_firas_nasri.txt": {
+    "language": "en",
+    "first_name": "Firas",
+    "last_name": "Nasri",
+    "email": "firas.nasri@yahoo.fr",
+    "phone": null,
+    "location": "Sousse, Tunisie",
+    "linkedin": "https://www.linkedin.com/in/firas-nasri",
+    "skills": [
+      "javascript",
+      "react",
+      "node.js",
+      "mongodb",
+      "docker"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_amine_chihi.pdf": {
+    "language": "fr",
+    "first_name": "Amine",
+    "last_name": "Chihi",
+    "email": "amine.chihi@hotmail.com",
+    "phone": "+216 47 127 227",
+    "location": "Sfax, Tunisie",
+    "linkedin": null,
+    "skills": [
+      "python",
+      "spark",
+      "airflow",
+      "sql",
+      "kafka",
+      "hadoop"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_rim_baccouche.docx": {
+    "language": "fr",
+    "first_name": "Rim",
+    "last_name": "Baccouche",
+    "email": "rim.baccouche@gmail.com",
+    "phone": "+33 6 12 34 56 78",
+    "location": "Paris, France",
+    "linkedin": "https://www.linkedin.com/in/rim-baccouche",
+    "skills": [
+      "java",
+      "spring",
+      "mysql",
+      "docker",
+      "git",
+      "uml"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_hamza_dridi.txt": {
+    "language": "en",
+    "first_name": "Hamza",
+    "last_name": "Dridi",
+    "email": "hamza.dridi@outlook.com",
+    "phone": null,
+    "location": "Lyon, France",
+    "linkedin": "https://www.linkedin.com/in/hamza-dridi",
+    "skills": [
+      "kotlin",
+      "swift",
+      "java",
+      "git"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_ghada_louati.pdf": {
+    "language": "fr",
+    "first_name": "Ghada",
+    "last_name": "Louati",
+    "email": "ghada.louati@yahoo.fr",
+    "phone": "+216 50 130 230",
+    "location": "London, UK",
+    "linkedin": "https://www.linkedin.com/in/ghada-louati",
+    "skills": [
+      "python",
+      "sql",
+      "machine learning",
+      "pandas",
+      "scikit-learn"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_marwa_sassi.docx": {
+    "language": "fr",
+    "first_name": "Marwa",
+    "last_name": "Sassi",
+    "email": "marwa.sassi@hotmail.com",
+    "phone": "+33 6 12 34 56 78",
+    "location": "Berlin, Allemagne",
+    "linkedin": null,
+    "skills": [
+      "python",
+      "django",
+      "fastapi",
+      "postgresql",
+      "docker"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_zied_fakhfakh.txt": {
+    "language": "en",
+    "first_name": "Zied",
+    "last_name": "Fakhfakh",
+    "email": "zied.fakhfakh@gmail.com",
+    "phone": null,
+    "location": "Madrid, Espagne",
+    "linkedin": "https://www.linkedin.com/in/zied-fakhfakh",
+    "skills": [
+      "javascript",
+      "react",
+      "typescript",
+      "angular",
+      "node.js"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_nesrine_chebbi.pdf": {
+    "language": "fr",
+    "first_name": "Nesrine",
+    "last_name": "Chebbi",
+    "email": "nesrine.chebbi@outlook.com",
+    "phone": "+216 53 133 233",
+    "location": "Montréal, Canada",
+    "linkedin": "https://www.linkedin.com/in/nesrine-chebbi",
+    "skills": [
+      "power bi",
+      "sql server",
+      "ssis",
+      "dax",
+      "excel",
+      "talend"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_walid_amri.docx": {
+    "language": "fr",
+    "first_name": "Walid",
+    "last_name": "Amri",
+    "email": "walid.amri@yahoo.fr",
+    "phone": "+33 6 12 34 56 78",
+    "location": "Milan, Italie",
+    "linkedin": "https://www.linkedin.com/in/walid-amri",
+    "skills": [
+      "python",
+      "tensorflow",
+      "keras",
+      "nlp",
+      "kubernetes",
+      "mlops"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_chaima_belaid.txt": {
+    "language": "en",
+    "first_name": "Chaima",
+    "last_name": "Belaid",
+    "email": "chaima.belaid@hotmail.com",
+    "phone": null,
+    "location": "Casablanca, Maroc",
+    "linkedin": null,
+    "skills": [
+      "docker",
+      "kubernetes",
+      "terraform",
+      "aws",
+      "jenkins",
+      "linux"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_hatem_karray.pdf": {
+    "language": "fr",
+    "first_name": "Hatem",
+    "last_name": "Karray",
+    "email": "hatem.karray@gmail.com",
+    "phone": "+216 56 136 236",
+    "location": "Tunis, Tunisie",
+    "linkedin": "https://www.linkedin.com/in/hatem-karray",
+    "skills": [
+      "javascript",
+      "react",
+      "node.js",
+      "mongodb",
+      "docker"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_sarra_mejri.docx": {
+    "language": "fr",
+    "first_name": "Sarra",
+    "last_name": "Mejri",
+    "email": "sarra.mejri@outlook.com",
+    "phone": "+33 6 12 34 56 78",
+    "location": "Ariana, Tunisie",
+    "linkedin": "https://www.linkedin.com/in/sarra-mejri",
+    "skills": [
+      "python",
+      "spark",
+      "airflow",
+      "sql",
+      "kafka",
+      "hadoop"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_bassem_tlili.txt": {
+    "language": "en",
+    "first_name": "Bassem",
+    "last_name": "Tlili",
+    "email": "bassem.tlili@yahoo.fr",
+    "phone": null,
+    "location": "Sousse, Tunisie",
+    "linkedin": "https://www.linkedin.com/in/bassem-tlili",
+    "skills": [
+      "java",
+      "spring",
+      "mysql",
+      "docker",
+      "git",
+      "uml"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_olfa_rekik.pdf": {
+    "language": "fr",
+    "first_name": "Olfa",
+    "last_name": "Rekik",
+    "email": "olfa.rekik@hotmail.com",
+    "phone": "+216 59 139 239",
+    "location": "Sfax, Tunisie",
+    "linkedin": null,
+    "skills": [
+      "kotlin",
+      "swift",
+      "java",
+      "git"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_ramzi_bouaziz.docx": {
+    "language": "fr",
+    "first_name": "Ramzi",
+    "last_name": "Bouaziz",
+    "email": "ramzi.bouaziz@gmail.com",
+    "phone": "+33 6 12 34 56 78",
+    "location": "Paris, France",
+    "linkedin": "https://www.linkedin.com/in/ramzi-bouaziz",
+    "skills": [
+      "python",
+      "sql",
+      "machine learning",
+      "pandas",
+      "scikit-learn"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_amani_jlassi.txt": {
+    "language": "en",
+    "first_name": "Amani",
+    "last_name": "Jlassi",
+    "email": "amani.jlassi@outlook.com",
+    "phone": null,
+    "location": "Lyon, France",
+    "linkedin": "https://www.linkedin.com/in/amani-jlassi",
+    "skills": [
+      "python",
+      "django",
+      "fastapi",
+      "postgresql",
+      "docker"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_seif_ghariani.pdf": {
+    "language": "fr",
+    "first_name": "Seif",
+    "last_name": "Ghariani",
+    "email": "seif.ghariani@yahoo.fr",
+    "phone": "+216 62 142 242",
+    "location": "London, UK",
+    "linkedin": "https://www.linkedin.com/in/seif-ghariani",
+    "skills": [
+      "javascript",
+      "react",
+      "typescript",
+      "angular",
+      "node.js"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_mariem_ouali.docx": {
+    "language": "fr",
+    "first_name": "Mariem",
+    "last_name": "Ouali",
+    "email": "mariem.ouali@hotmail.com",
+    "phone": "+33 6 12 34 56 78",
+    "location": "Berlin, Allemagne",
+    "linkedin": null,
+    "skills": [
+      "power bi",
+      "sql server",
+      "ssis",
+      "dax",
+      "excel",
+      "talend"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_tarek_benslimane.txt": {
+    "language": "en",
+    "first_name": "Tarek",
+    "last_name": "Benslimane",
+    "email": "tarek.benslimane@gmail.com",
+    "phone": null,
+    "location": "Madrid, Espagne",
+    "linkedin": "https://www.linkedin.com/in/tarek-benslimane",
+    "skills": [
+      "python",
+      "tensorflow",
+      "keras",
+      "nlp",
+      "kubernetes",
+      "mlops"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_asma_kallel.pdf": {
+    "language": "fr",
+    "first_name": "Asma",
+    "last_name": "Kallel",
+    "email": "asma.kallel@outlook.com",
+    "phone": "+216 65 145 245",
+    "location": "Montréal, Canada",
+    "linkedin": "https://www.linkedin.com/in/asma-kallel",
+    "skills": [
+      "docker",
+      "kubernetes",
+      "terraform",
+      "aws",
+      "jenkins",
+      "linux"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_nizar_toumi.docx": {
+    "language": "fr",
+    "first_name": "Nizar",
+    "last_name": "Toumi",
+    "email": "nizar.toumi@yahoo.fr",
+    "phone": "+33 6 12 34 56 78",
+    "location": "Milan, Italie",
+    "linkedin": "https://www.linkedin.com/in/nizar-toumi",
+    "skills": [
+      "javascript",
+      "react",
+      "node.js",
+      "mongodb",
+      "docker"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_hiba_fourati.txt": {
+    "language": "en",
+    "first_name": "Hiba",
+    "last_name": "Fourati",
+    "email": "hiba.fourati@hotmail.com",
+    "phone": null,
+    "location": "Casablanca, Maroc",
+    "linkedin": null,
+    "skills": [
+      "python",
+      "spark",
+      "airflow",
+      "sql",
+      "kafka",
+      "hadoop"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_malek_ayadi.pdf": {
+    "language": "fr",
+    "first_name": "Malek",
+    "last_name": "Ayadi",
+    "email": "malek.ayadi@gmail.com",
+    "phone": "+216 68 148 248",
+    "location": "Tunis, Tunisie",
+    "linkedin": "https://www.linkedin.com/in/malek-ayadi",
+    "skills": [
+      "java",
+      "spring",
+      "mysql",
+      "docker",
+      "git",
+      "uml"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_julien_dubois.docx": {
+    "language": "fr",
+    "first_name": "Julien",
+    "last_name": "Dubois",
+    "email": "julien.dubois@outlook.com",
+    "phone": "+33 6 12 34 56 78",
+    "location": "Ariana, Tunisie",
+    "linkedin": "https://www.linkedin.com/in/julien-dubois",
+    "skills": [
+      "kotlin",
+      "swift",
+      "java",
+      "git"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_chloe_bernard.txt": {
+    "language": "en",
+    "first_name": "Chloe",
+    "last_name": "Bernard",
+    "email": "chloe.bernard@yahoo.fr",
+    "phone": null,
+    "location": "Sousse, Tunisie",
+    "linkedin": "https://www.linkedin.com/in/chloe-bernard",
+    "skills": [
+      "python",
+      "sql",
+      "machine learning",
+      "pandas",
+      "scikit-learn"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_marco_bianchi.pdf": {
+    "language": "fr",
+    "first_name": "Marco",
+    "last_name": "Bianchi",
+    "email": "marco.bianchi@hotmail.com",
+    "phone": "+216 71 151 251",
+    "location": "Sfax, Tunisie",
+    "linkedin": null,
+    "skills": [
+      "python",
+      "django",
+      "fastapi",
+      "postgresql",
+      "docker"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_elena_popescu.docx": {
+    "language": "fr",
+    "first_name": "Elena",
+    "last_name": "Popescu",
+    "email": "elena.popescu@gmail.com",
+    "phone": "+33 6 12 34 56 78",
+    "location": "Paris, France",
+    "linkedin": "https://www.linkedin.com/in/elena-popescu",
+    "skills": [
+      "javascript",
+      "react",
+      "typescript",
+      "angular",
+      "node.js"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_thomas_weber.txt": {
+    "language": "en",
+    "first_name": "Thomas",
+    "last_name": "Weber",
+    "email": "thomas.weber@outlook.com",
+    "phone": null,
+    "location": "Lyon, France",
+    "linkedin": "https://www.linkedin.com/in/thomas-weber",
+    "skills": [
+      "power bi",
+      "sql server",
+      "ssis",
+      "dax",
+      "excel",
+      "talend"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_laura_sanchez.pdf": {
+    "language": "fr",
+    "first_name": "Laura",
+    "last_name": "Sanchez",
+    "email": "laura.sanchez@yahoo.fr",
+    "phone": "+216 74 154 254",
+    "location": "London, UK",
+    "linkedin": "https://www.linkedin.com/in/laura-sanchez",
+    "skills": [
+      "python",
+      "tensorflow",
+      "keras",
+      "nlp",
+      "kubernetes",
+      "mlops"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_antoine_moreau.docx": {
+    "language": "fr",
+    "first_name": "Antoine",
+    "last_name": "Moreau",
+    "email": "antoine.moreau@hotmail.com",
+    "phone": "+33 6 12 34 56 78",
+    "location": "Berlin, Allemagne",
+    "linkedin": null,
+    "skills": [
+      "docker",
+      "kubernetes",
+      "terraform",
+      "aws",
+      "jenkins",
+      "linux"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_giulia_conti.txt": {
+    "language": "en",
+    "first_name": "Giulia",
+    "last_name": "Conti",
+    "email": "giulia.conti@gmail.com",
+    "phone": null,
+    "location": "Madrid, Espagne",
+    "linkedin": "https://www.linkedin.com/in/giulia-conti",
+    "skills": [
+      "javascript",
+      "react",
+      "node.js",
+      "mongodb",
+      "docker"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_miguel_torres.pdf": {
+    "language": "fr",
+    "first_name": "Miguel",
+    "last_name": "Torres",
+    "email": "miguel.torres@outlook.com",
+    "phone": "+216 77 157 257",
+    "location": "Montréal, Canada",
+    "linkedin": "https://www.linkedin.com/in/miguel-torres",
+    "skills": [
+      "python",
+      "spark",
+      "airflow",
+      "sql",
+      "kafka",
+      "hadoop"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_sophie_muller.docx": {
+    "language": "fr",
+    "first_name": "Sophie",
+    "last_name": "Muller",
+    "email": "sophie.muller@yahoo.fr",
+    "phone": "+33 6 12 34 56 78",
+    "location": "Milan, Italie",
+    "linkedin": "https://www.linkedin.com/in/sophie-muller",
+    "skills": [
+      "java",
+      "spring",
+      "mysql",
+      "docker",
+      "git",
+      "uml"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_paul_lefevre.txt": {
+    "language": "en",
+    "first_name": "Paul",
+    "last_name": "Lefevre",
+    "email": "paul.lefevre@hotmail.com",
+    "phone": null,
+    "location": "Casablanca, Maroc",
+    "linkedin": null,
+    "skills": [
+      "kotlin",
+      "swift",
+      "java",
+      "git"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_ana_silva.pdf": {
+    "language": "fr",
+    "first_name": "Ana",
+    "last_name": "Silva",
+    "email": "ana.silva@gmail.com",
+    "phone": "+216 80 160 260",
+    "location": "Tunis, Tunisie",
+    "linkedin": "https://www.linkedin.com/in/ana-silva",
+    "skills": [
+      "python",
+      "sql",
+      "machine learning",
+      "pandas",
+      "scikit-learn"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_nicolas_girard.docx": {
+    "language": "fr",
+    "first_name": "Nicolas",
+    "last_name": "Girard",
+    "email": "nicolas.girard@outlook.com",
+    "phone": "+33 6 12 34 56 78",
+    "location": "Ariana, Tunisie",
+    "linkedin": "https://www.linkedin.com/in/nicolas-girard",
+    "skills": [
+      "python",
+      "django",
+      "fastapi",
+      "postgresql",
+      "docker"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_marta_ferrari.txt": {
+    "language": "en",
+    "first_name": "Marta",
+    "last_name": "Ferrari",
+    "email": "marta.ferrari@yahoo.fr",
+    "phone": null,
+    "location": "Sousse, Tunisie",
+    "linkedin": "https://www.linkedin.com/in/marta-ferrari",
+    "skills": [
+      "javascript",
+      "react",
+      "typescript",
+      "angular",
+      "node.js"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_kevin_schmidt.pdf": {
+    "language": "fr",
+    "first_name": "Kevin",
+    "last_name": "Schmidt",
+    "email": "kevin.schmidt@hotmail.com",
+    "phone": "+216 83 163 263",
+    "location": "Sfax, Tunisie",
+    "linkedin": null,
+    "skills": [
+      "power bi",
+      "sql server",
+      "ssis",
+      "dax",
+      "excel",
+      "talend"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_mouna_jebali.docx": {
+    "language": "fr",
+    "first_name": "Mouna",
+    "last_name": "Jebali",
+    "email": "mouna.jebali@gmail.com",
+    "phone": "+33 6 12 34 56 78",
+    "location": "Paris, France",
+    "linkedin": "https://www.linkedin.com/in/mouna-jebali",
+    "skills": [
+      "python",
+      "tensorflow",
+      "keras",
+      "nlp",
+      "kubernetes",
+      "mlops"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_slim_khemakhem.txt": {
+    "language": "en",
+    "first_name": "Slim",
+    "last_name": "Khemakhem",
+    "email": "slim.khemakhem@outlook.com",
+    "phone": null,
+    "location": "Lyon, France",
+    "linkedin": "https://www.linkedin.com/in/slim-khemakhem",
+    "skills": [
+      "docker",
+      "kubernetes",
+      "terraform",
+      "aws",
+      "jenkins",
+      "linux"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_rania_zaidi.pdf": {
+    "language": "fr",
+    "first_name": "Rania",
+    "last_name": "Zaidi",
+    "email": "rania.zaidi@yahoo.fr",
+    "phone": "+216 86 166 266",
+    "location": "London, UK",
+    "linkedin": "https://www.linkedin.com/in/rania-zaidi",
+    "skills": [
+      "javascript",
+      "react",
+      "node.js",
+      "mongodb",
+      "docker"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_fedi_chaabene.docx": {
+    "language": "fr",
+    "first_name": "Fedi",
+    "last_name": "Chaabene",
+    "email": "fedi.chaabene@hotmail.com",
+    "phone": "+33 6 12 34 56 78",
+    "location": "Berlin, Allemagne",
+    "linkedin": null,
+    "skills": [
+      "python",
+      "spark",
+      "airflow",
+      "sql",
+      "kafka",
+      "hadoop"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_syrine_larbi.txt": {
+    "language": "en",
+    "first_name": "Syrine",
+    "last_name": "Larbi",
+    "email": "syrine.larbi@gmail.com",
+    "phone": null,
+    "location": "Madrid, Espagne",
+    "linkedin": "https://www.linkedin.com/in/syrine-larbi",
+    "skills": [
+      "java",
+      "spring",
+      "mysql",
+      "docker",
+      "git",
+      "uml"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_aziz_mabrouk.pdf": {
+    "language": "fr",
+    "first_name": "Aziz",
+    "last_name": "Mabrouk",
+    "email": "aziz.mabrouk@outlook.com",
+    "phone": "+216 89 169 269",
+    "location": "Montréal, Canada",
+    "linkedin": "https://www.linkedin.com/in/aziz-mabrouk",
+    "skills": [
+      "kotlin",
+      "swift",
+      "java",
+      "git"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_emna_trigui.docx": {
+    "language": "fr",
+    "first_name": "Emna",
+    "last_name": "Trigui",
+    "email": "emna.trigui@yahoo.fr",
+    "phone": "+33 6 12 34 56 78",
+    "location": "Milan, Italie",
+    "linkedin": "https://www.linkedin.com/in/emna-trigui",
+    "skills": [
+      "python",
+      "sql",
+      "machine learning",
+      "pandas",
+      "scikit-learn"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_rayen_souissi.txt": {
+    "language": "en",
+    "first_name": "Rayen",
+    "last_name": "Souissi",
+    "email": "rayen.souissi@hotmail.com",
+    "phone": null,
+    "location": "Casablanca, Maroc",
+    "linkedin": null,
+    "skills": [
+      "python",
+      "django",
+      "fastapi",
+      "postgresql",
+      "docker"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_cyrine_nasr.pdf": {
+    "language": "fr",
+    "first_name": "Cyrine",
+    "last_name": "Nasr",
+    "email": "cyrine.nasr@gmail.com",
+    "phone": "+216 92 172 272",
+    "location": "Tunis, Tunisie",
+    "linkedin": "https://www.linkedin.com/in/cyrine-nasr",
+    "skills": [
+      "javascript",
+      "react",
+      "typescript",
+      "angular",
+      "node.js"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_mootez_brahmi.docx": {
+    "language": "fr",
+    "first_name": "Mootez",
+    "last_name": "Brahmi",
+    "email": "mootez.brahmi@outlook.com",
+    "phone": "+33 6 12 34 56 78",
+    "location": "Ariana, Tunisie",
+    "linkedin": "https://www.linkedin.com/in/mootez-brahmi",
+    "skills": [
+      "power bi",
+      "sql server",
+      "ssis",
+      "dax",
+      "excel",
+      "talend"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_nour_dhaou.txt": {
+    "language": "en",
+    "first_name": "Nour",
+    "last_name": "Dhaou",
+    "email": "nour.dhaou@yahoo.fr",
+    "phone": null,
+    "location": "Sousse, Tunisie",
+    "linkedin": "https://www.linkedin.com/in/nour-dhaou",
+    "skills": [
+      "python",
+      "tensorflow",
+      "keras",
+      "nlp",
+      "kubernetes",
+      "mlops"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_ayoub_sellami.pdf": {
+    "language": "fr",
+    "first_name": "Ayoub",
+    "last_name": "Sellami",
+    "email": "ayoub.sellami@hotmail.com",
+    "phone": "+216 95 175 275",
+    "location": "Sfax, Tunisie",
+    "linkedin": null,
+    "skills": [
+      "docker",
+      "kubernetes",
+      "terraform",
+      "aws",
+      "jenkins",
+      "linux"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_ranim_haj_ali.docx": {
+    "language": "fr",
+    "first_name": "Ranim",
+    "last_name": "Haj Ali",
+    "email": "ranim.hajali@gmail.com",
+    "phone": "+33 6 12 34 56 78",
+    "location": "Paris, France",
+    "linkedin": "https://www.linkedin.com/in/ranim-haj-ali",
+    "skills": [
+      "javascript",
+      "react",
+      "node.js",
+      "mongodb",
+      "docker"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_zeineb_missaoui.txt": {
+    "language": "en",
+    "first_name": "Zeineb",
+    "last_name": "Missaoui",
+    "email": "zeineb.missaoui@outlook.com",
+    "phone": null,
+    "location": "Lyon, France",
+    "linkedin": "https://www.linkedin.com/in/zeineb-missaoui",
+    "skills": [
+      "python",
+      "spark",
+      "airflow",
+      "sql",
+      "kafka",
+      "hadoop"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_oumaima_chaari.pdf": {
+    "language": "fr",
+    "first_name": "Oumaima",
+    "last_name": "Chaari",
+    "email": "oumaima.chaari@yahoo.fr",
+    "phone": "+216 98 178 278",
+    "location": "London, UK",
+    "linkedin": "https://www.linkedin.com/in/oumaima-chaari",
+    "skills": [
+      "java",
+      "spring",
+      "mysql",
+      "docker",
+      "git",
+      "uml"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_youssra_belaifa.docx": {
+    "language": "fr",
+    "first_name": "Youssra",
+    "last_name": "Belaifa",
+    "email": "youssra.belaifa@hotmail.com",
+    "phone": "+33 6 12 34 56 78",
+    "location": "Berlin, Allemagne",
+    "linkedin": null,
+    "skills": [
+      "kotlin",
+      "swift",
+      "java",
+      "git"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_aziz_ncib.txt": {
+    "language": "en",
+    "first_name": "Aziz",
+    "last_name": "Ncib",
+    "email": "aziz.ncib@gmail.com",
+    "phone": null,
+    "location": "Madrid, Espagne",
+    "linkedin": "https://www.linkedin.com/in/aziz-ncib",
+    "skills": [
+      "python",
+      "sql",
+      "machine learning",
+      "pandas",
+      "scikit-learn"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_wael_boukadida.pdf": {
+    "language": "fr",
+    "first_name": "Wael",
+    "last_name": "Boukadida",
+    "email": "wael.boukadida@outlook.com",
+    "phone": "+216 101 181 281",
+    "location": "Montréal, Canada",
+    "linkedin": "https://www.linkedin.com/in/wael-boukadida",
+    "skills": [
+      "python",
+      "django",
+      "fastapi",
+      "postgresql",
+      "docker"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_ilef_gharsallah.docx": {
+    "language": "fr",
+    "first_name": "Ilef",
+    "last_name": "Gharsallah",
+    "email": "ilef.gharsallah@yahoo.fr",
+    "phone": "+33 6 12 34 56 78",
+    "location": "Milan, Italie",
+    "linkedin": "https://www.linkedin.com/in/ilef-gharsallah",
+    "skills": [
+      "javascript",
+      "react",
+      "typescript",
+      "angular",
+      "node.js"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_bacem_sfar.txt": {
+    "language": "en",
+    "first_name": "Bacem",
+    "last_name": "Sfar",
+    "email": "bacem.sfar@hotmail.com",
+    "phone": null,
+    "location": "Casablanca, Maroc",
+    "linkedin": null,
+    "skills": [
+      "power bi",
+      "sql server",
+      "ssis",
+      "dax",
+      "excel",
+      "talend"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_rihab_chouchane.pdf": {
+    "language": "fr",
+    "first_name": "Rihab",
+    "last_name": "Chouchane",
+    "email": "rihab.chouchane@gmail.com",
+    "phone": "+216 104 184 284",
+    "location": "Tunis, Tunisie",
+    "linkedin": "https://www.linkedin.com/in/rihab-chouchane",
+    "skills": [
+      "python",
+      "tensorflow",
+      "keras",
+      "nlp",
+      "kubernetes",
+      "mlops"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_achraf_zribi.docx": {
+    "language": "fr",
+    "first_name": "Achraf",
+    "last_name": "Zribi",
+    "email": "achraf.zribi@outlook.com",
+    "phone": "+33 6 12 34 56 78",
+    "location": "Ariana, Tunisie",
+    "linkedin": "https://www.linkedin.com/in/achraf-zribi",
+    "skills": [
+      "docker",
+      "kubernetes",
+      "terraform",
+      "aws",
+      "jenkins",
+      "linux"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_ismail_ouertani.txt": {
+    "language": "en",
+    "first_name": "Ismail",
+    "last_name": "Ouertani",
+    "email": "ismail.ouertani@yahoo.fr",
+    "phone": null,
+    "location": "Sousse, Tunisie",
+    "linkedin": "https://www.linkedin.com/in/ismail-ouertani",
+    "skills": [
+      "javascript",
+      "react",
+      "node.js",
+      "mongodb",
+      "docker"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_sirine_abbes.pdf": {
+    "language": "fr",
+    "first_name": "Sirine",
+    "last_name": "Abbes",
+    "email": "sirine.abbes@hotmail.com",
+    "phone": "+216 107 187 287",
+    "location": "Sfax, Tunisie",
+    "linkedin": null,
+    "skills": [
+      "python",
+      "spark",
+      "airflow",
+      "sql",
+      "kafka",
+      "hadoop"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_hamdi_rahmani.docx": {
+    "language": "fr",
+    "first_name": "Hamdi",
+    "last_name": "Rahmani",
+    "email": "hamdi.rahmani@gmail.com",
+    "phone": "+33 6 12 34 56 78",
+    "location": "Paris, France",
+    "linkedin": "https://www.linkedin.com/in/hamdi-rahmani",
+    "skills": [
+      "java",
+      "spring",
+      "mysql",
+      "docker",
+      "git",
+      "uml"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_lucia_romano.txt": {
+    "language": "en",
+    "first_name": "Lucia",
+    "last_name": "Romano",
+    "email": "lucia.romano@outlook.com",
+    "phone": null,
+    "location": "Lyon, France",
+    "linkedin": "https://www.linkedin.com/in/lucia-romano",
+    "skills": [
+      "kotlin",
+      "swift",
+      "java",
+      "git"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_diego_fernandez.pdf": {
+    "language": "fr",
+    "first_name": "Diego",
+    "last_name": "Fernandez",
+    "email": "diego.fernandez@yahoo.fr",
+    "phone": "+216 110 190 290",
+    "location": "London, UK",
+    "linkedin": "https://www.linkedin.com/in/diego-fernandez",
+    "skills": [
+      "python",
+      "sql",
+      "machine learning",
+      "pandas",
+      "scikit-learn"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_hannah_fischer.docx": {
+    "language": "fr",
+    "first_name": "Hannah",
+    "last_name": "Fischer",
+    "email": "hannah.fischer@hotmail.com",
+    "phone": "+33 6 12 34 56 78",
+    "location": "Berlin, Allemagne",
+    "linkedin": null,
+    "skills": [
+      "python",
+      "django",
+      "fastapi",
+      "postgresql",
+      "docker"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_julia_kowalski.txt": {
+    "language": "en",
+    "first_name": "Julia",
+    "last_name": "Kowalski",
+    "email": "julia.kowalski@gmail.com",
+    "phone": null,
+    "location": "Madrid, Espagne",
+    "linkedin": "https://www.linkedin.com/in/julia-kowalski",
+    "skills": [
+      "javascript",
+      "react",
+      "typescript",
+      "angular",
+      "node.js"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  },
+  "cv_pedro_costa.pdf": {
+    "language": "fr",
+    "first_name": "Pedro",
+    "last_name": "Costa",
+    "email": "pedro.costa@outlook.com",
+    "phone": "+216 113 193 293",
+    "location": "Montréal, Canada",
+    "linkedin": "https://www.linkedin.com/in/pedro-costa",
+    "skills": [
+      "power bi",
+      "sql server",
+      "ssis",
+      "dax",
+      "excel",
+      "talend"
+    ],
+    "languages": [
+      "arabic",
+      "french",
+      "english"
+    ],
+    "nb_experience": 1,
+    "nb_education": 1
+  }
+}

@@ -1,0 +1,18 @@
+NOUR DHAOU
+Machine Learning Engineer
+Sousse, Tunisie
+Email: nour.dhaou@yahoo.fr
+linkedin.com/in/nour-dhaou
+
+SKILLS
+Python, Tensorflow, Keras, Nlp, Kubernetes, Mlops
+
+WORK EXPERIENCE
+Machine Learning Engineer at Clevy (2022 - 2024)
+Delivered features and collaborated with the team.
+
+EDUCATION
+MSc Computer Science, Technical University of Berlin (2021 - 2024)
+
+LANGUAGES
+English (native), French (intermediate)

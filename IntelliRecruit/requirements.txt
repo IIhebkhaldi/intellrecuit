@@ -1,0 +1,4 @@
+# Méta-requirements : installe backend + frontend d'un coup dans la même venv
+# (pratique en dev local ; en S8 chaque service aura son Docker avec le sien)
+-r backend/requirements.txt
+-r frontend/requirements.txt

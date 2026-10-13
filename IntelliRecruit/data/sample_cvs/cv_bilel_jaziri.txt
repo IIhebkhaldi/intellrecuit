@@ -1,0 +1,18 @@
+BILEL JAZIRI
+DevOps Engineer
+Lyon, France
+Email: bilel.jaziri@outlook.com
+linkedin.com/in/bilel-jaziri
+
+SKILLS
+Docker, Kubernetes, Terraform, Aws, Jenkins, Linux
+
+WORK EXPERIENCE
+DevOps Engineer at AWS Partner (2022 - 2020)
+Delivered features and collaborated with the team.
+
+EDUCATION
+MSc Computer Science, Sorbonne Université (2017 - 2020)
+
+LANGUAGES
+English (native), French (intermediate)

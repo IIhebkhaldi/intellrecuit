@@ -1,0 +1,18 @@
+FIRAS NASRI
+Full Stack Developer
+Sousse, Tunisie
+Email: firas.nasri@yahoo.fr
+linkedin.com/in/firas-nasri
+
+SKILLS
+Javascript, React, Node.Js, Mongodb, Docker
+
+WORK EXPERIENCE
+Full Stack Developer at GoMyCode (2022 - 2021)
+Delivered features and collaborated with the team.
+
+EDUCATION
+MSc Computer Science, Technical University of Berlin (2018 - 2021)
+
+LANGUAGES
+English (native), French (intermediate)

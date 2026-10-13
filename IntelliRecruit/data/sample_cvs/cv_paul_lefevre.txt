@@ -1,0 +1,17 @@
+PAUL LEFEVRE
+Mobile Developer
+Casablanca, Maroc
+Email: paul.lefevre@hotmail.com
+
+SKILLS
+Kotlin, Swift, Java, Git
+
+WORK EXPERIENCE
+Mobile Developer at Kaoun (2022 - 2024)
+Delivered features and collaborated with the team.
+
+EDUCATION
+MSc Computer Science, Polytechnique Montréal (2021 - 2024)
+
+LANGUAGES
+English (native), French (intermediate)

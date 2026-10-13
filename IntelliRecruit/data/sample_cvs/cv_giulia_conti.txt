@@ -1,0 +1,18 @@
+GIULIA CONTI
+Full Stack Developer
+Madrid, Espagne
+Email: giulia.conti@gmail.com
+linkedin.com/in/giulia-conti
+
+SKILLS
+Javascript, React, Node.Js, Mongodb, Docker
+
+WORK EXPERIENCE
+Full Stack Developer at GoMyCode (2022 - 2021)
+Delivered features and collaborated with the team.
+
+EDUCATION
+MSc Computer Science, University of Manchester (2018 - 2021)
+
+LANGUAGES
+English (native), French (intermediate)

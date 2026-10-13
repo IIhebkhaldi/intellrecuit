@@ -1,0 +1,32 @@
+# === Backend (Module A) ===
+fastapi>=0.110
+uvicorn[standard]
+python-multipart
+pydantic>=2
+python-dotenv
+sqlalchemy>=2.0     # ORM + persistance SQLite/PostgreSQL (S5)
+
+# --- Parsing (réutilise la S1) ---
+pypdf
+spacy>=3.7
+# NER multi-langue (A2, S4) — installer les DEUX modèles après pip install :
+#   python -m spacy download fr_core_news_sm
+#   python -m spacy download en_core_web_sm
+
+# --- S3 : parsing multi-format + extraction basique (Module A) ---
+python-docx        # CVs Word (.docx)
+langdetect         # détection de langue fr/en/ar
+pdfplumber         # fallback si pypdf n'extrait (presque) rien
+fpdf2              # génération des CVs de test (data/generer_cvs_test.py + tests)
+
+# --- Tests ---
+pytest
+httpx
+
+# --- OPTIONNEL : pipeline S2 uniquement (/api/pipeline) ---
+# sentence-transformers tire torch (~2 Go) qui peut échouer sur Windows
+# (chemins > 260 caractères). L'API S3 fonctionne parfaitement SANS.
+# Décommenter seulement si besoin du pipeline complet :
+# sentence-transformers
+# chromadb
+# groq
